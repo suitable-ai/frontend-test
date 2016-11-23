@@ -8,7 +8,8 @@ An AngularJS focused take home test for Front-end Developers.
 
 ## Requirements
 + Solution should be responsive
-+ Using the included `weather.json` file, show the "current" conditions for New York. This should include:
++ Use the the included `weather.json` file as your datasource
++ Show the "current" conditions for New York:
   + Location (ie. New York, NY, USA)
   + Current weather description (ie. sunny)
   + Current temperature
@@ -19,12 +20,12 @@ An AngularJS focused take home test for Front-end Developers.
     + Humidity
     + Pressure
     + Sunrise/Sunset Time
-+ Show the 7 Day forecast as a multi-line chart (charting library is up to you but should be incorporated as an Angular Directive.)
++ Show the 7 Day forecast as a multi-line chart (use any charting library you would like but it should be incorporated as an Angular Directive)
   + Y axis should show the High and Low temperature as separate lines
-  + X axis should show 7 days (including the "current" day)
+  + X axis should show 7 days (starting with the "current" day)
   + The chart should have a tool tip that when activated shows:
     + Day of the week
     + High temperature
     + Low temperature
     + Weather description (ie. Breezy)
-+ __Bonus:__ Was this too easy? Want to make it a real app? Use the Yahoo weather API https://developer.yahoo.com/weather/ or Open Weather API https://openweathermap.org/api defaulted to New York, NY, but allow the user to change the location by Zipcode.
++ __Bonus:__ Was this too easy? Want to make it a real app? Use the Yahoo weather API https://developer.yahoo.com/weather/ or Open Weather API https://openweathermap.org/api with the default location set to New York, NY, and allow the user to change the location by zip code.

@@ -4,7 +4,7 @@ An AngularJS focused take home test for Front-end Developers.
 ## Instructions
 + Clone this repo
 + Complete this exercise and submit either a zip of the solution or a link to a new repo
-+ Please incorporate the included Angular 1.5.x framework into your solution. All other choices of libraries, frameworks, etc. are up to you.
++ Please incorporate the included `angular.min.js` (Angular 1.5.8) framework into your solution. All other choices of libraries, frameworks, etc. are up to you.
 
 ## Requirements
 + Solution should be responsive

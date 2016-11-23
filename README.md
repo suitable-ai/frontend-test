@@ -8,7 +8,7 @@ An AngularJS focused take home test for Front-end Developers.
 
 ## Requirements
 + Solution should be responsive
-+ Use the the included `weather.json` file as your datasource
++ Use the the included `weather.json` file as your datasource (sample data from [Yahoo's Weather API](https://developer.yahoo.com/weather/))
 + Show the "current" conditions for New York:
   + Location (ie. New York, NY, USA)
   + Current weather description (ie. sunny)
@@ -28,4 +28,4 @@ An AngularJS focused take home test for Front-end Developers.
     + High temperature
     + Low temperature
     + Weather description (ie. Breezy)
-+ __Bonus:__ Was this too easy? Want to make it a real app? Use the Yahoo weather API https://developer.yahoo.com/weather/ or Open Weather API https://openweathermap.org/api with the default location set to New York, NY, and allow the user to change the location by zip code.
++ __Bonus:__ Was this too easy? Want to make it a real app? Use the [Yahoo's Weather API](https://developer.yahoo.com/weather/) or [Open Weather API](https://openweathermap.org/api) with the default location set to New York, NY, and allow the user to change the location by zip code.

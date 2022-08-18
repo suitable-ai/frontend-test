@@ -2,21 +2,25 @@
 An React focused take home test for Frontend Developers.
 
 ## Instructions
-+ Clone this repo
-+ Complete this exercise and submit either a zip of the solution or a link to a new repo
-+ Please use React to build this. All other choices of libraries, frameworks, etc. are up to you.
+- Clone this repo
+- Complete this exercise and submit either a zip of the solution or a link to a new repo
+- Please use React to build this. All other choices of libraries, frameworks, etc. are up to you.
 
 ## Requirements
-+ Solution should be responsive and similar to [this](https://weather.com/en-IN/weather/today/l/96f2f84af9a5f5d452eb0574d4e4d8a840c71b05e22264ebdc0056433a642c84)
-+ Use the the included `weather.json` file as your datasource (sample data from [Yahoo's Weather API](https://developer.yahoo.com/weather/))
-+ Show the "current" conditions for New York:
-  + Location (ie. New York, NY, USA)
-  + Current weather description (ie. sunny)
-  + Current temperature
-  + Today's high temperature
-  + Today's low temperature
-+ Allow the user to toggle more data in the current conditions area:
-    + Wind Speed
-    + Humidity
-    + Pressure
-    + Sunrise/Sunset Time
+- Solution should be responsive and similar (only similar, you are free to tweak the design and layout) to this:
+
+<img width="820" alt="Screen Shot 2022-08-18 at 2 09 49 PM" src="https://user-images.githubusercontent.com/19583619/185351403-9c82e404-3a43-4c8b-ad10-10bd62be5468.png">
+  <img width="806" alt="Screen Shot 2022-08-18 at 2 10 34 PM" src="https://user-images.githubusercontent.com/19583619/185351515-f688cdc9-fee0-4304-90d9-d523816a568b.png">
+
+- Use the the included `weather.json` file as your datasource (sample data from [Yahoo's Weather API](https://developer.yahoo.com/weather/))
+- Show the "current" conditions for New York:
+  - Location (ie. New York, NY, USA)
+  - Current weather description (ie. sunny)
+  - Current temperature
+  - Today's high temperature
+  - Today's low temperature
+- Allow the user to toggle more data in the current conditions area:
+    - Wind Speed
+    - Humidity
+    - Pressure
+    - Sunrise/Sunset Time

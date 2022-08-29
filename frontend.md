@@ -1,5 +1,5 @@
 # Front End Test
-An React focused take home test for Frontend Developers.
+An React focused take home test for Frontend Developers. Please submit a **CodeSandbox or CodePen** link.
 
 ## Instructions
 - Clone this repo

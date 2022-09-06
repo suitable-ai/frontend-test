@@ -5,7 +5,7 @@ An React focused take home test for Frontend Developers. Please submit a **CodeS
 - Clone this repo
 - Complete this exercise and submit either a zip of the solution or a link to a new repo
 - Please use React to build this. All other choices of libraries, frameworks, etc. are up to you.
-- Use **ONLY** the the included `weather.json` file as your datasource.
+- Use **ONLY** the the included `weather.json` file as your datasource. **Any hardcoding will be rejected immediately.**
 
 ## Requirements
 - Solution should be responsive and similar (**only similar, NOT same**, you are free to tweak the design and layout) to this:

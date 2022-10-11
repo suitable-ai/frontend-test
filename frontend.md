@@ -1,6 +1,7 @@
 # Suitable Frontend Task
 
-Build the Referrals UI page using this [design spec](https://www.figma.com/proto/bDqEQ5WiwXMKTwAKmJxhqQ/Untitled?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1).
+1. Build the Referrals UI page using this [design spec](https://www.figma.com/proto/bDqEQ5WiwXMKTwAKmJxhqQ/Untitled?node-id=1%3A4&scaling=min-zoom&page-id=0%3A1).
+2. You don't have to build an exact replica of the design, you can skip stuff like icons and other small things that will take time off building the actual UI. 
 
 **There is no need to build any backend (api layer, server, database).**
 

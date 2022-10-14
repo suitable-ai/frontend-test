@@ -13,4 +13,5 @@
 1. **Has to be built with React**
 2. **Should be responsive** (Mobile, Tablet and Desktop)
 3. Build the page using [Ant Design](https://ant.design/)
-4. **Mail the submission to sambhav@suitable.ai with link to your repo and the live website** where we check the code and UI respectively. 
+4. The input box at the top should search the list by name
+5. **Mail the submission to sambhav@suitable.ai with link to your repo and the live website** where we check the code and UI respectively. 

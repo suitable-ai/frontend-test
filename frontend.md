@@ -12,5 +12,5 @@
 ## Submission
 1. **Has to be built with React**
 2. **Should be responsive** (Mobile, Tablet and Desktop)
-3. Build Referrals UI page (suggested libraries: [Material UI](https://material-ui.com/) and [Ant Design](https://ant.design/))
+3. Build Referrals UI page (suggested library: [Ant Design](https://ant.design/))
 4. **Mail us the submission at sambhav@suitable.ai with link to your repo and the live website** where we check the code and UI respectively. 

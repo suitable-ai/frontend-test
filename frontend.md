@@ -12,6 +12,6 @@
 ## Submission
 1. **Has to be built with React**
 2. **Should be responsive** (Mobile, Tablet and Desktop) (Size < Desktop, the list layout should switch to vertical with name at top, smaller step ladder in middle (progressing horizontally) and lastly, the amount)
-3. Build the page using [Ant Design](https://ant.design/)
+3. Build the page using any UI/component library
 4. The input box at the top should search the list by name
 5. **Mail the submission to sambhav@suitable.ai with link to your repo and the live website** where we check the code and UI respectively. 
